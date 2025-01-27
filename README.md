@@ -6,11 +6,13 @@ I am a Frontend Developer with 7 years of experience, I have a strong background
 - 👯 I’m looking to collaborate on open-source projects.
 
 ## Connect with me 
-<a href="https://www.instagram.com/akbllt" target="blank"><img align="center" src="https://onderakbulut.com/demos/images/icons/instagram.svg" height="32" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/onderakbulut/" target="blank"><img align="center" src="https://onderakbulut.com/demos/images/icons/linked.svg" height="32" /></a> &nbsp;
-<a href="https://www.youtube.com/channel/UCvVEdwLQw9KuynvOuTUbaDg" target="blank"><img align="center" src="https://onderakbulut.com/demos/images/icons/youtube.svg" height="32" /></a> &nbsp;
-<a href="https://twitter.com/akbulut_dev" target="blank"><img align="center" src="https://onderakbulut.com/demos/images/icons/twitter.svg" height="32" /></a> &nbsp;
-<a href="https://codepen.io/onderakbulut" target="blank"><img align="center" src="https://onderakbulut.com/demos/images/icons/codepen.svg" height="32" /></a> &nbsp;
+<p align="left">
+<a href="https://codepen.io/onderakbulut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="onderakbulut" height="30" width="40" /></a>
+<a href="https://twitter.com/akbulut_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akbulut_dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/onderakbulut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onderakbulut" height="30" width="40" /></a>
+<a href="https://instagram.com/akbllt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akbllt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCvVEdwLQw9KuynvOuTUbaDg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucvvedwlqw9kuynvoutubadg" height="30" width="40" /></a>
+</p>
 
 
 ## Skills
